@@ -13,4 +13,7 @@ face_generation/data/
 *.pkl 
 
 */.floyd*
-
+.idea
+*.pickle
+*.zip
+*.json
